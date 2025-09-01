@@ -8,43 +8,61 @@ const browse = document.querySelector('.browse')
 const items = [
 
     {
-        link: 'page.html',
-        img: 'img/phimg.jpg',
-        title: 'first item',
-        description: 'short description of item'
+        link: 'https://amzn.to/4mBh8u0',
+        img: 'itmIMG/item1.jpg',
+        title: '3 Piece Workout Sets for Women',
+        description: 'Butt Lifting Leggings with High Impact Sports Bra Gym Shorts '
     },
 
     {
-        link: 'page.html',
-        img: 'img/phimg.jpg',
-        title: 'second item',
-        description: 'short description of item'
+        link: 'https://amzn.to/45VXTUU',
+        img: 'itmIMG/item2.jpg',
+        title: 'SAMPEEL Womens Two Piece Lounge Sets ',
+        description: 'Casual Summer Outfits 2 Piece Short Matching Clothing Set '
     },
     {
-        link: 'page.html',
-        img: 'img/phimg.jpg',
-        title: 'third item',
-        description: 'short description of item'
+        link: 'https://amzn.to/4lSvEfO',
+        img: 'itmIMG/item3.jpg',
+        title: 'Women Workout Seamless Jumpsuit Yoga ',
+        description: 'Ribbed Bodycon One Piece Tank Top Leggings Romper '
     },
     {
-        link: 'page.html',
-        img: 'img/phimg.jpg',
-        title: 'fourth item',
-        description: 'short description of item'
-    },
-
-    {
-        link: 'page.html',
-        img: 'img/phimg.jpg',
-        title: 'fifth item',
-        description: 'short description of item'
+        link: 'https://amzn.to/4fZdrf4',
+        img: 'itmIMG/item4.jpg',
+        title: 'SUUKSESS Women Strappy Romper',
+        description: 'Seamless Jumpsuit Tummy Control Padded Sports Bra '
     },
 
     {
-        link: 'page.html',
-        img: 'img/phimg.jpg',
-        title: 'sixth item',
-        description: 'short description of item'
+        link: 'https://amzn.to/4p2KK56',
+        img: 'itmIMG/item5.jpg',
+        title: 'Womens Workout Tops',
+        description: 'Short Sleeve Shirts with Sun Protection Trendy Spring Summer Outfits S-3XL '
+    },
+
+    {
+        link: 'https://amzn.to/45Ud4xW',
+        img: 'itmIMG/item6.jpg',
+        title: "CHRLEISURE Women's 4 Packs Workout Gym Shorts",
+        description: 'High Waisted Butt Lifting Scrunch Butt Seamless Booty Shorts '
+    },
+    {
+        link: 'https://amzn.to/4fZdGqu',
+        img: 'itmIMG/item7.jpg',
+        title: 'FireSwan Crossover Athletic Shorts for Women',
+        description: '2 in 1 Flowy Running Shorts with Pockets Spandex Butterfly Workout Tennis Skorts'
+    },
+        {
+        link: 'https://amzn.to/4oXXBFX',
+        img: 'itmIMG/item8.jpg',
+        title: 'High Waisted Leggings for Women',
+        description: 'No See Through Tummy Control Cycling Workout Yoga Pants with Pockets Reg & Plus  '
+    },
+        {
+        link: 'https://amzn.to/47TF2MK',
+        img: 'itmIMG/item9.jpg',
+        title: 'Women Short Sleeve Workout Shirts',
+        description: 'Open Back Tops Casual Yoga Y2k Athletic Gym Slouchy Crop Running Tees '
     }
 ]
 
