@@ -8,6 +8,27 @@ const browse = document.querySelector('.browse')
 const items = [
 
     {
+        link: 'https://amzn.to/3JPpmjH',
+        img: 'itmIMG/item10.jpg',
+        title: 'Aloodor Sweatsuit for Women ',
+        description: '2 Piece Outfits for Womens Crewneck Sweatshirts Pullover '
+    },
+
+    {
+        link: 'https://amzn.to/46jz8TW',
+        img: 'itmIMG/item11.jpg',
+        title: 'Grip Pilates Socks for Women',
+        description: 'Yoga Slouch Socks with Grip for Barre Workout Hospital Long Scrunch Slipper Socks'
+    },
+
+    {
+        link: 'https://amzn.to/4mBh8u0',
+        img: 'itmIMG/item12.jpg',
+        title: "Gihuo Women's Athletic Full Zip Lightweight Workout Jacket",
+        description: 'Perfect for casual, running, sports, yoga, workout'
+    },
+
+    {
         link: 'https://amzn.to/4mBh8u0',
         img: 'itmIMG/item1.jpg',
         title: '3 Piece Workout Sets for Women',

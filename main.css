@@ -127,7 +127,7 @@ li {
     box-sizing: border-box;
     overflow: hidden;
     max-width: 420px;
-    max-height: 520px;
+    height: 520px;
     border-radius: 20px;
     text-align: start;
     position: relative;
