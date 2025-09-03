@@ -22,7 +22,7 @@ const items = [
     },
 
     {
-        link: 'https://amzn.to/4mBh8u0',
+        link: 'https://amzn.to/464f0Eg',
         img: 'itmIMG/item12.jpg',
         title: "Gihuo Women's Athletic Full Zip Lightweight Workout Jacket",
         description: 'Perfect for casual, running, sports, yoga, workout'
